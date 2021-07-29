@@ -1,2 +1,2 @@
-this is a docker image of centos7
-installed app  net-tools 、sudo、wget、git
+This is a docker image of centos7
+Installed app with net-tools 、sudo、wget、git
